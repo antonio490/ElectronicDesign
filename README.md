@@ -1,5 +1,5 @@
 
-<h2><span style="color: red"> Electric Design </span></h2>
+<h2><span style="color: red"> Electronic Design </span></h2>
 
 </br>
 
