@@ -1,7 +1,7 @@
 
 ## Electric Design 
 
-<br>
+
 - simple counter
 - up and down counter
 - binary to bcd decoder
