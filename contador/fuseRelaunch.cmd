@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "secureip" -o "C:/Users/PC230414/Desktop/contador/contador_tb_isim_beh.exe" -prj "C:/Users/PC230414/Desktop/contador/contador_tb_beh.prj" "work.contador_tb" 
